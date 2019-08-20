@@ -11,4 +11,13 @@ Identified opportunities to reduce New York City School Bus Delays through the a
       
       3. Count regression - Negative Binomial Regression
       
-Insights summarized in the Presentation Deck
+Contains 
+
+      PowerPoint deck summarizing the project / results
+
+      R script with models and analysis
+      
+      
+# Authors
+
+Anupriya Thirumurthy, Hena Lee, Kunal Shukla, Yingkun Zhu
