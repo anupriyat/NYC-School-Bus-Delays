@@ -7,7 +7,7 @@ Identified opportunities to reduce New York City School Bus Delays through the a
  
       1. Latent Class Analysis for Clustering
       
-      2. Classification and Regression Tress 
+      2. Classification and Regression Trees (CART) 
       
       3. Count regression - Negative Binomial Regression
       
