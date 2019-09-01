@@ -13,11 +13,12 @@ Identified opportunities to reduce New York City School Bus Delays through the a
       
       2. Classification and Regression Trees (CART) 
       
+      3. Count regression - Negative Binomial Regression
+      
+
  CART Insights:
  
  ![Alt text](CART.png?raw=true "CART.png")
-      
-      3. Count regression - Negative Binomial Regression
       
 Contains 
 
