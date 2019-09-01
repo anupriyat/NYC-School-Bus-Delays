@@ -3,11 +3,19 @@ Identified opportunities to reduce New York City School Bus Delays through the a
 
  Used SQL queries to extract and pull data from different data tables and merged them. Cleaned the merged data using OpenRefine tool and exported cleaded data as a csv file. Analyzed geo data of NYC School Bus to provide actionable insights to reduce delays.
  
+ Spatial Data Visualization:
+ 
+ ![Alt text](SpatialDataVisualization.png?raw=true "SpatialDataVisualization.png")
+ 
  Modelling Techniques include
  
       1. Latent Class Analysis for Clustering
       
       2. Classification and Regression Trees (CART) 
+      
+ CART Insights:
+ 
+ ![Alt text](CART.png?raw=true "CART.png")
       
       3. Count regression - Negative Binomial Regression
       
